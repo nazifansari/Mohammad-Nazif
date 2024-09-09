@@ -17,4 +17,4 @@ I'm constantly exploring new frameworks and tools to enhance my development skil
 ## 📫 How to reach me
 
 - Email: your-rockingnazif@gmail.com
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohammad-nazif-0641ba227)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/mohammad-nazif-0641ba227/)
